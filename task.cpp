@@ -1,4 +1,4 @@
-// Вариант 7
+// Variant 7
 
 #include <iostream>
 #include <cmath>
