@@ -14,14 +14,15 @@ int f(int x)
 
 int main()
 {
-    int a, b, c;
-
+    int a;
     std::cout << "Input a: ";
     std::cin >> a;
 
+    int b;
     std::cout << "Input b: ";
     std::cin >> b;
 
+    int c;
     std::cout << "Input c: "; 
     std::cin >> c;
 
